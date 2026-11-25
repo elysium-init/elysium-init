@@ -31,7 +31,3 @@ DevOps-инженер. Занимаюсь Kubernetes-платформами, д�
 ## Принципы
 
 IaC и GitOps для всего · алерт — значит действие · blameless post-mortems · тесная работа с разработкой
-
-## Контакты
-
-📫 ivan.arkhipov.dev@gmail.com
