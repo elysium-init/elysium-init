@@ -34,4 +34,4 @@ IaC и GitOps для всего · алерт — значит действие 
 
 ## Контакты
 
-📫 elysium.init@gmail.com
+📫 ivan.arkhipov.dev@gmail.com
